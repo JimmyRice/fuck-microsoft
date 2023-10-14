@@ -61,3 +61,9 @@ Microsoft 我操你妈逼
 ![image.png](https://s2.loli.net/2023/10/14/tJ5qIvuM3kHDTmi.png)
 
 刚开始以为是我个人的问题，Google 后发现碰上的人不少
+
+## Windows 11 从休眠中恢复 Taskbar 图标失踪
+
+![bc3864e55c36d42d70addd8282ea348a.png](https://s2.loli.net/2023/10/14/7LugI6TfnBiptEh.jpg)
+
+随机复现，很他妈烦人。解决方案强制重启 Explorer.exe
