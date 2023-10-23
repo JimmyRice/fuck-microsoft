@@ -2,6 +2,12 @@
 
 Microsoft 我操你妈逼
 
+## Windows 11 Select an App 的程序选择卡死
+
+![Select-an-app-freezes.gif](https://s2.loli.net/2023/10/23/obFuQl5ZavGkmyn.gif)
+
+啊？这都能卡死...
+
 ## Windows 11 从休眠中恢复 Taskbar 图标失踪
 
 ![bc3864e55c36d42d70addd8282ea348a.png](https://s2.loli.net/2023/10/14/7LugI6TfnBiptEh.jpg)
