@@ -2,6 +2,12 @@
 
 Microsoft 我操你妈逼
 
+## [Windows 空间计算错误](https://github.com/JimmyRice/fuck-microsoft/issues/1) by [Arispex](https://github.com/Arispex)
+
+![Detail image](https://user-images.githubusercontent.com/67822718/278647710-f6b4b622-3d49-4ea0-9eb8-e6bc20039bbd.png)
+
+![Detail image](https://user-images.githubusercontent.com/67822718/278647723-04beb9c8-fb6d-4344-b1ac-89a4c31acfc0.png)
+
 ## Windows 11 Select an App 的程序选择卡死
 
 ![Select-an-app-freezes.gif](https://s2.loli.net/2023/10/23/obFuQl5ZavGkmyn.gif)
