@@ -2,6 +2,10 @@
 
 Microsoft 我操你妈逼
 
+## Windows 开始菜单启动程序后无法自动消失
+
+![Start-Menu.gif](https://s2.loli.net/2023/10/30/aRyh9o5JzjvVi4k.gif)
+
 ## [Windows 空间计算错误](https://github.com/JimmyRice/fuck-microsoft/issues/1) by [Arispex](https://github.com/Arispex)
 
 ![Detail image](https://user-images.githubusercontent.com/67822718/278647710-f6b4b622-3d49-4ea0-9eb8-e6bc20039bbd.png)
