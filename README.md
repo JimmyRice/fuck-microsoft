@@ -2,6 +2,10 @@
 
 Microsoft 我操你妈逼
 
+## Windows 开始菜单中软件图标消失 by [Seamain](https://github.com/Seamain)
+
+![image](https://i.imgur.com/QlKDY0g.png)
+
 ## Windows 开始菜单启动程序后无法自动消失
 
 ![Start-Menu.gif](https://s2.loli.net/2023/10/30/aRyh9o5JzjvVi4k.gif)
