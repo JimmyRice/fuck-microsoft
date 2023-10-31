@@ -2,6 +2,10 @@
 
 Microsoft 我操你妈逼
 
+## 控制中心图标异常
+
+![image.png](https://s2.loli.net/2023/10/31/Bq1AFxRt28bzDTi.png)
+
 ## Windows 开始菜单中软件图标消失 by [Seamain](https://github.com/Seamain)
 
 ![image](https://i.imgur.com/QlKDY0g.png)
