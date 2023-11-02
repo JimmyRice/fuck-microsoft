@@ -2,6 +2,10 @@
 
 Microsoft 我操你妈逼
 
+## Widget Badge 错位
+
+![image.png](https://s2.loli.net/2023/11/02/uUqywoavNgtenM1.png)
+
 ## 控制中心图标异常
 
 ![image.png](https://s2.loli.net/2023/10/31/Bq1AFxRt28bzDTi.png)
