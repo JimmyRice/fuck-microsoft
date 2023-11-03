@@ -2,6 +2,16 @@
 
 Microsoft 我操你妈逼
 
+## Windows Weather, 新老 Fluent Design 的强力视觉撞击盛宴
+
+![image.png](https://s2.loli.net/2023/11/03/ikDWdrvRCIHOlz2.png)
+
+红色区域为 Windows 10 时代的 Fluent Design 组件
+
+蓝色区域目测可能套了 WebView 2，采用新版本的 Fluent Design 的网页
+
+微软没品设计直接带来了两个时代的 Fluent Design 的撞击视觉盛宴
+
 ## Windows Tools 黑白无常
 
 ![image.png](https://s2.loli.net/2023/11/03/aUhFKbBM1uwPSVI.png)
