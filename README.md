@@ -2,6 +2,10 @@
 
 Microsoft 我操你妈逼
 
+## Windows Tools 黑白无常
+
+![image.png](https://s2.loli.net/2023/11/03/aUhFKbBM1uwPSVI.png)
+
 ## 硬盘不识别，重启后恢复 - (?)
 
 一个一次性问题，将一个 Samsung 的移动硬盘插入后 Windows 没有反应。重启解决
