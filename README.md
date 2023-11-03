@@ -2,6 +2,16 @@
 
 Microsoft 我操你妈逼
 
+## 硬盘不识别，重启后恢复 - (?)
+
+一个一次性问题，将一个 Samsung 的移动硬盘插入后 Windows 没有反应。重启解决
+
+在重启 Windows 前插入到 iPadOS 中读取无障碍
+
+移动硬盘的文件系统为 exFAT
+
+这鸡巴稳定性随便拿一个国产套皮系统都可以把 Windows 这个 fw 压在地上狂揍吧 😅
+
 ## Widget Badge 错位
 
 ![image.png](https://s2.loli.net/2023/11/02/uUqywoavNgtenM1.png)
