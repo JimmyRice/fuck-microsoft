@@ -2,6 +2,18 @@
 
 Microsoft 我操你妈逼
 
+## Microsoft Edge 卡死
+
+突然卡死，退出重开无效
+
+<img width="685" alt="Snipaste_2023-11-04_21-18-38" src="https://github.com/Arispex/fuck-microsoft/assets/67822718/b27e8c28-cc65-4479-ae02-5989d6e256ce">
+
+
+## Windows 任务管理器显示异常
+
+<img width="526" alt="Snipaste_2023-11-04_21-16-56" src="https://github.com/Arispex/fuck-microsoft/assets/67822718/a9932eb9-d557-467a-8616-1dd8fd85e88c">
+
+
 ## Microsoft Loop 傻逼级别的机翻
 
 当微软对 Bing Translate 给予了大量信心而直接让所有项目的多语言化直接变成自动流水线后:
