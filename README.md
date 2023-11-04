@@ -2,7 +2,22 @@
 
 Microsoft 我操你妈逼
 
-## Windows Weather, 新老 Fluent Design 的强力视觉撞击盛宴
+## Microsoft Loop 傻逼级别的机翻
+
+当微软对 Bing Translate 给予了大量信心而直接让所有项目的多语言化直接变成自动流水线后:
+
+![image.png](https://s2.loli.net/2023/11/04/sHx492pdZ7gSPMa.png)
+
+"动作英雄"
+
+"不良的构想脑力激荡"
+
+**更傻逼的是我找不到调整语言的地方，你翻译成这样，倒是让我调回英文阿？**
+**微软你妈死了捏**
+
+同期加映: [微软式中文，那些令人啼笑皆非的经典句子](https://www.dians.net/thread-925.htm)
+
+## Windows Weather, 新老 Fluent Design 的强力撞击视觉盛宴
 
 ![image.png](https://s2.loli.net/2023/11/03/ikDWdrvRCIHOlz2.png)
 
