@@ -2,17 +2,15 @@
 
 Microsoft 我操你妈逼
 
-## Microsoft Edge 卡死 by [Arispex](https://github.com/Arispex)
+## [Microsoft Edge 卡死](https://github.com/JimmyRice/fuck-microsoft/pull/3) by [Arispex](https://github.com/Arispex)
 
 突然卡死，退出重开无效
 
-<img width="685" alt="Snipaste_2023-11-04_21-18-38" src="https://github.com/Arispex/fuck-microsoft/assets/67822718/b27e8c28-cc65-4479-ae02-5989d6e256ce">
+![Image](https://github.com/Arispex/fuck-microsoft/assets/67822718/b27e8c28-cc65-4479-ae02-5989d6e256ce)
 
+## [Windows 任务管理器显示异常](https://github.com/JimmyRice/fuck-microsoft/pull/3) by [Arispex](https://github.com/Arispex)
 
-## Windows 任务管理器显示异常 by [Arispex](https://github.com/Arispex)
-
-<img width="526" alt="Snipaste_2023-11-04_21-16-56" src="https://github.com/Arispex/fuck-microsoft/assets/67822718/a9932eb9-d557-467a-8616-1dd8fd85e88c">
-
+![Image](https://github.com/Arispex/fuck-microsoft/assets/67822718/a9932eb9-d557-467a-8616-1dd8fd85e88c)
 
 ## Microsoft Loop 傻逼级别的机翻
 
@@ -61,7 +59,7 @@ Microsoft 我操你妈逼
 
 ![image.png](https://s2.loli.net/2023/10/31/Bq1AFxRt28bzDTi.png)
 
-## Windows 开始菜单中软件图标消失 by [Seamain](https://github.com/Seamain)
+## [Windows 开始菜单中软件图标消失](https://github.com/JimmyRice/fuck-microsoft/pull/2) by [Seamain](https://github.com/Seamain)
 
 ![image](https://i.imgur.com/QlKDY0g.png)
 
