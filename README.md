@@ -2,6 +2,14 @@
 
 Microsoft 我操你妈逼
 
+## Microsoft Account 支持 Passkeys 但没有明确标识
+
+![image.png](https://s2.loli.net/2023/11/07/iKhabcrj2NvuJAd.png)
+
+虽然理论上走的 FIDO 标准没错但是谁会想到藏到这种地方啊...
+
+右下角版权时间写的 2020 BTW，这破页面也有 3 年没更新了。麻烦傻逼微软更进一下好吗？
+
 ## [Microsoft Edge 卡死](https://github.com/JimmyRice/fuck-microsoft/pull/3) by [Arispex](https://github.com/Arispex)
 
 突然卡死，退出重开无效
