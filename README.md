@@ -1,6 +1,8 @@
 # Microsoft 垃圾产品质量 / BUG 集锦
 
-Microsoft 你妈死了
+> "The only problem with Microsoft is they just have no taste" - Steve Jobs
+>
+> "微软的问题就在于他们没有品位" - 乔布斯
 
 ## Windows 自带的 Emoji 输入功能有许多 Unicode 字符残缺
 
