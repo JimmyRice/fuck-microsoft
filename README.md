@@ -2,7 +2,15 @@
 
 Microsoft 我操你妈逼
 
-## Microsoft Account 支持 Passkeys 但没有明确标识
+## Microsoft Account Passkeys 后续: 不，微软不支持 Passkeys
+
+![e997c6ca8b95c28da156fe51ddeba15a.png](https://s2.loli.net/2023/11/07/gDRUfVZw5Ko79cl.jpg)
+
+![f8e9228e779fccb55296387fd65a4724.png](https://s2.loli.net/2023/11/07/WkQMY32qKPGdioZ.png)
+
+实测移动设备上根本无法使用密钥 (Passkeys) 方式登录，这也说明了为什么 Microsoft Account 在设置 Passkeys 时没有明显标识。
+
+## Microsoft Account ~~支持 Passkeys 但没有明确标识~~ 不支持 Passkeys
 
 ![image.png](https://s2.loli.net/2023/11/07/iKhabcrj2NvuJAd.png)
 
