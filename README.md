@@ -1,6 +1,26 @@
 # Microsoft 垃圾产品质量 / BUG 集锦
 
-Microsoft 我操你妈逼
+Microsoft 你妈死了
+
+## Windows 自带的 Emoji 输入功能有许多 Unicode 字符残缺
+
+虽然我知道 Windows 的 Emoji 无法输入旗帜类型的 Emoji。但是我今天在找中指 Emoji 的时候我也找不到。
+
+Windows 你的 Emoji 输入有个鸡巴用 😁
+
+Windows:
+
+![16ab8e275d5d2df321da26836101c5d9.png](https://s2.loli.net/2023/11/07/NolvkHBrsSEumOX.png)
+
+![463b9ffbd32bcc0350f052ed3a9be24e.png](https://s2.loli.net/2023/11/07/17vti5BMcpLjAXT.png)
+
+![3321eb526eef3f27bb1cd50ca6d154af.png](https://s2.loli.net/2023/11/07/LUTYyrxfeS6VPQR.png)
+
+Apple:
+
+![159431a3a61f8bc6c971ea8e67e868a2.png](https://s2.loli.net/2023/11/07/lxoredUgvyawG5m.jpg)
+
+![39d9a31cf8eb5823ae14f4c32c53acd2.png](https://s2.loli.net/2023/11/07/whiyBYEGe5KrNlC.jpg)
 
 ## Microsoft Account Passkeys 后续: 不，微软不支持 Passkeys
 
