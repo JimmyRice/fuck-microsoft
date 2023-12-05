@@ -3,6 +3,13 @@
 > "The only problem with Microsoft is they just have no taste" - Steve Jobs
 >
 > "微软的问题就在于他们没有品位" - 乔布斯
+>
+
+## Windows 切换 Desktop 时就可以触发 Taskbar 的软件 Icon 随机消失的问题
+
+太他妈傻逼了微软
+
+![](assets/Taskbar%20Bug.gif)
 
 ## Windows 自带的 Emoji 输入功能有许多 Unicode 字符残缺
 
