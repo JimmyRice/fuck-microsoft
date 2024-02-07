@@ -5,6 +5,34 @@
 > "微软的问题就在于他们没有品位" - 乔布斯
 >
 
+## Xbox 下载页面暂停按钮图标位移
+
+又是位移
+
+![](assets/XboxDownloadPauseDisplacement.png)
+
+## Xbox 的奇妙按钮排版设计
+
+好丑，微软没有任何美感的傻逼设计师真把自己当设计师了
+
+![](assets/XboxButton.png)
+
+## Microsoft Teams 图片 icon 出现位移
+
+![](assets/TeamsPictureIconDisplacement.png)
+
+## Microsoft Teams 切换标签页失效 & 文件标签页随机出现无文件情况
+
+从文件切换到聊天很可能切换不过来。并且随机出现文件列表显示为空的情况
+
+![](assets/MSTeamsTabsAndFiles.gif)
+
+## Microsoft Teams 无法关闭 Mini 窗口
+
+如标题，无法关闭 Mini 窗口。（首次打开 Teams 可以关闭 Mini 窗口，后面就无法关闭了，只能通过任务栏将该窗口关闭）
+
+![](assets/MSTeamsNotClosing.gif)
+
 ## Windows 切换 Desktop 时就可以触发 Taskbar 的软件 Icon 随机消失的问题
 
 太他妈傻逼了微软
