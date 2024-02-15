@@ -13,7 +13,7 @@
 
 超级差的体验
 
-![Dev Home](assest/DevHome.png)
+![Dev Home](assets/DevHome.png)
 
 ## Xbox 下载页面暂停按钮图标位移
 
