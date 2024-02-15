@@ -5,7 +5,7 @@
 > "微软的问题就在于他们没有品位" - 乔布斯
 >
 
-## Dev Home 无法克隆除 GitHub 意外需要授权的 Repository
+## Dev Home 无法克隆除 GitHub 以外需要授权的 Repository
 
 这个程序无法使用 SSH 的方式对仓库进行克隆，因此部分企业中强制要求进行 SSH Clone 方式的仓库均无法使用。
 
