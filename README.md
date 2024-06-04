@@ -3,7 +3,13 @@
 > "The only problem with Microsoft is they just have no taste" - Steve Jobs
 >
 > "微软的问题就在于他们没有品位" - 乔布斯
->
+
+## New Outlook 的日历订阅后丢失日历
+
+日历订阅完成后，可能会遇到两种情况
+
+1. 订阅后无事发生，即使提示订阅成功
+2. 订阅后成功，可以看到订阅日历的日程信息。关闭 New Outlook 后一段时间再次打开，订阅日历消失
 
 ## Dev Home 无法克隆除 GitHub 以外需要授权的 Repository
 
